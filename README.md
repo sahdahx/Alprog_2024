@@ -1,1 +1,1 @@
-﻿# Algoritma dan Pemrogaman
+﻿# Algoritma dan Pemrogaman untuk Statistika
